@@ -11,20 +11,20 @@ El juego consta de un globo, el cual debe ir esquivando obstáculos puntiagudos 
 Características
 1.	Al inicio del juego se dispone de tres vidas(oportunidades)
 2.	Al momento que el globo entra en contacto con alguno de los obstáculos:
--	Perderá una vida y si dispone de vidas, se repetirá el nivel
--	Si no dispone de vidas el juego termina
+    - Perderá una vida y si dispone de vidas, se repetirá el nivel
+    -	Si no dispone de vidas el juego termina
 3.	Disponemos de dos formas para la recuperación de vidas:
--	Al tener 1000 puntos se añade una vida
--	O podrá recoger vidas que encontrara en el transcurso del nivel en juego
+    -	Al tener 1000 puntos se añade una vida
+    -	O podrá recoger vidas que encontrara en el transcurso del nivel en juego
 4.	Conforme avanza el juego los niveles se ponen más complejos y el ambiente del juego cambia.
 5.	Tendremos la posibilidad de cambiar el color del personaje.
 6.	Tendremos tipos de potenciadores, estos tendrán un determinado tiempo de duración:
--	Potenciadores que nos ayudan para avanzar dentro del nivel como:
-•	Vidas
-•	Little ball. Permite hacer el globo más pequeño 
-•	Energy ball. Da más potencia al globo y desaparecen los obstáculos
--	Potenciadores que tendremos que esquivarlos ya que nos aumentaran la dificultad del nivel como:
-•	Big ball
+    -	Potenciadores que nos ayudan para avanzar dentro del nivel como:
+      •	Vidas
+      •	Little ball. Permite hacer el globo más pequeño 
+      •	Energy ball. Da más potencia al globo y desaparecen los obstáculos
+    -	Potenciadores que tendremos que esquivarlos ya que nos aumentaran la dificultad del nivel como:
+      •	Big ball. Permite hacer el globo más grande
 7.	El juego nunca termina mientras se disponga de vidas
 
 
